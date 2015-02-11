@@ -9,5 +9,5 @@ script
   # removed.
   ip neighbour flush nud perm
   # Load the static table
-  test -e <%= @ethers %> && arp -f <%= @ethers %>
+  test -e <%= @ethers_path %> && arp -f <%= @ethers_path %>
 end script
