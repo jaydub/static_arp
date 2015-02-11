@@ -1,0 +1,11 @@
+{
+    "name": "jaydub-static_arp",
+    "version": "0.1.0",
+    "author": "John Morton",
+    "license": "Apache-2.0",
+    "summary": "Manage the static ARP table from puppet",
+    "source": "https://github.com/jaydub/static_arp",
+    "project_url": "https://github.com/jaydub/static_arp",
+    "issues_url": "https://github.com/jaydub/static_arp/issues",
+    "dependencies": []
+}
